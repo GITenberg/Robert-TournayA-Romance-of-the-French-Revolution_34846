@@ -1,0 +1,26 @@
+_repo: Robert-TournayA-Romance-of-the-French-Revolution_34846
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34846-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sage, William
+    birthdate: 1864
+    gutenberg_agent_id: '37273'
+    url: http://www.gutenberg.org/2009/agents/37273
+description: ''
+gutenberg_issued: '2011-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34846'
+  lccn: '00002140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PS'
+title: 'Robert Tournay: A Romance of the French Revolution'
+url: http://www.gutenberg.org/ebooks/34846
